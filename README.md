@@ -6,11 +6,11 @@ Site de uma ONG **fictícia** que prepara crianças e jovens da periferia de Sã
 > Projeto acadêmico da disciplina de Desenvolvimento Front-end, do professor Marcelo de Freitas Pintaud. Nenhum dado é coletado ou enviado.
 
 ## Integrantes
-- Jonata Alves Borsari — <a href="https://www.linkedin.com/in/jonata-alves-borsari/
-- Joao Frazon Zanon — <a href=" https://www.linkedin.com/in/jo%C3%A3o-fraz%C3%A3o-zanon/>
-- Gustavo Ferreira Lima — <a href="https://www.linkedin.com/in/gustavo-ferreira-b83b8b443
-- Nicolas Henry Oliveira Penha — <a href="https://www.linkedin.com/in/nicolas-henry-oliveira/
-- Gabriel Braes Gramacho — <a href="https://www.linkedin.com/in/gabriel-braes-gramacho-3a6191403
+- Jonata Alves Borsari — https://www.linkedin.com/in/jonata-alves-borsari
+- Joao Frazon Zanon —  https://www.linkedin.com/in/jo%C3%A3o-fraz%C3%A3o-zanon
+- Gustavo Ferreira Lima — https://www.linkedin.com/in/gustavo-ferreira-b83b8b443
+- Nicolas Henry Oliveira Penha — https://www.linkedin.com/in/nicolas-henry-oliveira
+- Gabriel Braes Gramacho — https://www.linkedin.com/in/gabriel-braes-gramacho-3a6191403
 
 ## Objetivo
 Divulgar a causa, apresentar os projetos, explicar os jogos e receber inscrições (simuladas).
